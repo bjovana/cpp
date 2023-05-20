@@ -1,0 +1,6 @@
+﻿  main.cpp
+  spil.cpp
+  Generating Code...
+C:\Users\Jovana\source\repos\Project92\Project92\spil.cpp(40): warning C4715: 'Spil::izvadiSlicicu': not all control paths return a value
+C:\Users\Jovana\source\repos\Project92\Project92\spil.h(40): warning C4715: 'Spil::dohvSaTekuce': not all control paths return a value
+  Project92.vcxproj -> C:\Users\Jovana\source\repos\Project92\x64\Debug\Project92.exe
