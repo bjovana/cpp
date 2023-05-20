@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\Jovana\source\repos\oop1 1. zadatak\oop1 1. zadatak\vreme.h(29): warning C4172: returning address of local variable or temporary: v
+C:\Users\Jovana\source\repos\oop1 1. zadatak\oop1 1. zadatak\lista.h(76): warning C4715: 'Lista<int>::dohvSaPozicije': not all control paths return a value
+  oop1 1. zadatak.vcxproj -> C:\Users\Jovana\source\repos\oop1 1. zadatak\x64\Debug\oop1 1. zadatak.exe
